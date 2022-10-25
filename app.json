@@ -32,7 +32,7 @@
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
+      "description": "هنا ضع كود تيرمكس الخاص بك",
       "value": ""
     },
     "TG_BOT_USERNAME": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "sbb_b",
+      "value": "https://github.com/bbhh1/userboot",
       "required": false
     }
   },
