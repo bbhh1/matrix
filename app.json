@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jmthonen/zuhairy",
+  "repository": "https://github.com/bbhh1/matrix",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/bbhh1/userboot",
+      "value": "Matraxiq",
       "required": false
     }
   },
